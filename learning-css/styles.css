@@ -1,0 +1,44 @@
+h1 {
+	color: rgb(52, 94, 235);
+	font-family: "papyrus";
+	font-size: 5vw;
+/*	border: 5px solid red;*/
+	border-color: blue;
+	border-width: 5px;
+	border-style: solid;
+	padding: 100px;
+}
+
+img {
+	height: 15vw;
+	width: 50%;
+}
+
+* {
+  text-align: center;
+}
+
+ul {
+	 list-style-type: square;
+}
+
+#ingredients {
+	background-color: purple;
+	color: white;
+}
+
+.header {
+	background-color: blue;
+	color: hotpink;
+}
+
+p {
+	font-weight: 100;
+}
+
+/*body {
+	background-image: url("https://i.redd.it/c13le68sckhe1.png");
+	background-position: center; /* Center the image */
+  	background-repeat: no-repeat; /* Do not repeat the image */
+  	background-size: cover; /* Resize the background image to cover the entire container */
+}*/
